@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### The Waste Impact Calculator project and its repos
 
-You can use the [editor on GitHub](https://github.com/OR-Dept-Environmental-Quality/wic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Waste Impact Calculator (WIC) is a framework for estimating the life cycle environmental impacts associated with solid waste materials and treatments, and projecting the impact consequences of solid waste management decisions (e.g. comparing waste prevention to recycling).  See the *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)* for rationale and approach.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WIC will published in several repos (not all of which are ready for prime time :) ). 
 
-### Markdown
+* [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) -- fundamental data and documentation, example applications
+* wic-wastesheds -- calculation of life cycle impacts for solid waste in Oregon, Oregon's counties, and possibly several other states, under 3 management scenarios
+* wic-app -- a shiny app for viewing the results produced by wic-wastesheds
+* wic-eyo -- a shiny app allowing the user to enter their own data, and produce results similar to those produced by wic-app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OR-Dept-Environmental-Quality/wic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+One personal note: while we the authors of WIC ([Martin J. Brown](https://github.com/DEQmbrown2) and [Peter Canepa](https://github.com/DEQpcanepa)) are experienced environmental analysts, and are quite confident in WIC's intellectual foundation, we're new to collaborative coding.  Please apply forbearance to our code/releases as necessary until we get the hang of this thing.  Thanks!
