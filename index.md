@@ -1,6 +1,6 @@
 ### The Waste Impact Calculator project and its repos
 
-The Waste Impact Calculator (WIC) is a framework for estimating the life cycle environmental impacts associated with solid waste materials and treatments, and projecting the impact consequences of solid waste management decisions (e.g. comparing waste prevention to recycling).  See the *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)* for rationale and approach.
+The Waste Impact Calculator (WIC) is a framework for estimating the life cycle environmental impacts associated with solid waste materials and treatments, and projecting the impact consequences of solid waste management decisions (e.g. comparing waste prevention to recycling).  See the *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)* for rationale and approach.  WIC's 1.0 release was reviewed by an independent technical reviewer, Dr. Christoph Koffler of [Sphera](https://sphera.com/), whose comments can be found [here](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/independent-technical-review/statement-of-independent-technical-reviewer.pdf).
 
 WIC project work occurs in several repos, listed below. Official releases will (eventually) be available for download within each repo.
 
