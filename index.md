@@ -4,6 +4,7 @@ The Waste Impact Calculator (WIC) is a framework for estimating the life cycle e
 
 WIC project work occurs in several repos, listed below. Official releases will (eventually) be available for download within each repo.
 
+* [wic-data](https://github.com/OR-Dept-Environmental-Quality/wic-data) -- An R package containing impact factors and example datasets for using the Waste Impact Calculator framework. 
 * [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) -- fundamental data and documentation, example applications
 * wic-wastesheds -- calculation of life cycle impacts for solid waste in Oregon, Oregon's counties, and possibly several other states, under 3 management scenarios related for recycling rates
 * wic-app -- a shiny app for viewing the results produced by wic-wastesheds
