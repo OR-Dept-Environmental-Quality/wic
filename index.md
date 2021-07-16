@@ -4,11 +4,13 @@ The Waste Impact Calculator (WIC) is a framework for estimating the life cycle e
 
 * For a video introduction, see [this talk for the American Center For Life Cycle Assessment](https://youtu.be/Turv-Mpnf4g).
 * For a more thorough explication of the rationale and approach behind WIC, see the *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)*.
-* WIC may be expressed in many ways.  See *[Example applications of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf)* for a few ideas.
 
-Here's the kind of thing you can create with WIC:
-
+WIC may be expressed in many ways.  At the most basic level it helps you contrast the weight and impacts of materials, for example:
 ![a screenshot comparing weight to impacts](wic-screenshot.png)
+
+But really, the sky's the limit.  See *[Example applications of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf)* for a few more ideas.
+
+### WIC repositories
 
 WIC project work occurs in several repos, listed below. Some of these are still works in progress.  Official releases will (eventually) be available for download within each repo.
 
@@ -20,7 +22,7 @@ WIC project work occurs in several repos, listed below. Some of these are still 
 
 ### Technical review
 
-WIC's 1.0 release was reviewed by an independent technical reviewer, Dr. Christoph Koffler of [Sphera](https://sphera.com/), whose comments can be found [here](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/independent-technical-review/statement-of-independent-technical-reviewer.pdf).  Releases after 1.0 contain new features and data, bug fixes, and improved documentation and examples, so they should not substantially affect the relevance of the reviewer's comments.
+The life cycle impact modeling for WIC releases tagged 1.0 were reviewed by an independent technical reviewer, Dr. Christoph Koffler of [Sphera](https://sphera.com/).  The reviewer's comments can be found in the documentation folder of the [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) repo.  Releases after 1.0 contain new features and data, bug fixes, and improved documentation and examples, so they should not substantially affect the relevance of the reviewer's comments.
 
 ### Personal note
 
