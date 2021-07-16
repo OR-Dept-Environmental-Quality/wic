@@ -15,7 +15,7 @@ But really, the sky's the limit.  See *[Example applications of the Waste Impact
 
 WIC project work occurs in several repos, listed below. Some of these are still works in progress.  Official releases will (eventually) be available for download within each repo.
 
-* [wic-data](https://github.com/OR-Dept-Environmental-Quality/wic-data) -- Most users will be interested in this.  An R package containing impact factors and example datasets for using the Waste Impact Calculator framework. Help files contain links to documentation, including worked examples.
+* [wic-data](https://github.com/OR-Dept-Environmental-Quality/wic-data) -- Most users will be interested in this.  The repo contains an installable R package containing impact factors and example datasets for using the Waste Impact Calculator framework. Help files contain links to documentation, including worked examples.
 * [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) -- The fundamental data and processing behind the material in *wic-data*.  Includes detailed documentation on life cycle impact modeling for individual materials.
 * wic-wastesheds -- calculation of life cycle impacts for solid waste in Oregon, Oregon's counties, and the United States as a whole, under 3 management scenarios related for recycling rates.
 * wic-app -- a shiny app for viewing the results produced by wic-wastesheds
@@ -23,7 +23,7 @@ WIC project work occurs in several repos, listed below. Some of these are still 
 
 ### Technical review
 
-The life cycle impact modeling for WIC releases tagged 1.0 were reviewed by an independent technical reviewer, Dr. Christoph Koffler of [Sphera](https://sphera.com/).  The reviewer's comments can be found in the documentation folder of the [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) repo.  Releases after 1.0 contain new features and data, bug fixes, and improved documentation and examples, so they should not substantially affect the relevance of the reviewer's comments.
+The life cycle impact modeling work for WIC releases tagged 1.0 was reviewed by an independent technical authority, Dr. Christoph Koffler of [Sphera](https://sphera.com/).  The reviewer's comments can be found in the documentation folder of the [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) repo.  Releases after 1.0 contain new features and data, bug fixes, and improved documentation and examples, so they should not substantially affect the relevance of the reviewer's comments.
 
 ### Personal note
 
