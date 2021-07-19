@@ -4,6 +4,7 @@ The Waste Impact Calculator (WIC) is a framework for estimating the life cycle e
 
 * For a video introduction, see [this talk for the American Center For Life Cycle Assessment](https://youtu.be/Turv-Mpnf4g).
 * For a more thorough explication of the rationale and approach behind WIC, see the *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)*.
+* Disambiguation: for information on the Women Infants and Children supplemental nutrition program, also abbreviated WIC, see [this page](https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/Pages/index.aspx).
 
 WIC may be expressed in many ways.  At the most basic level it helps you contrast the weight and impacts of materials, for example:
 
