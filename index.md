@@ -26,6 +26,7 @@ WIC project work occurs in several repos, listed below. Some of these are still 
 
 The life cycle impact modeling work for WIC releases tagged 1.0 was reviewed by an independent technical authority, Dr. Christoph Koffler of [Sphera](https://sphera.com/).  The reviewer's comments can be found in the documentation folder of the [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) repo.  Releases after 1.0 contain new features and data, bug fixes, and improved documentation and examples, so they should not substantially affect the relevance of the reviewer's comments.
 
-### Personal note
+### Contact the authors
 
-While we the authors of WIC ([Martin J. Brown](https://github.com/DEQmbrown2) and [Peter Canepa](https://github.com/DEQpcanepa)) are experienced environmental analysts, and are quite confident in WIC's intellectual foundation, we're new to collaborative coding.  Please apply forbearance to our code/releases/R packages/etc as necessary until we get the hang of this thing.  Your comments and advice, positive or negative, are welcome.  Thanks!
+[Martin J. Brown](https://github.com/DEQmbrown2) 
+[Peter Canepa](https://github.com/DEQpcanepa)) 
