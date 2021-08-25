@@ -28,5 +28,5 @@ The life cycle impact modeling work for WIC releases tagged 1.0 was reviewed by 
 
 ### Contact the authors
 
-[Martin J. Brown](https://github.com/DEQmbrown2) 
-[Peter Canepa](https://github.com/DEQpcanepa)) 
+* [Martin J. Brown](https://github.com/DEQmbrown2) 
+* [Peter Canepa](https://github.com/DEQpcanepa)
