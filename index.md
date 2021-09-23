@@ -10,7 +10,8 @@ WIC may be expressed in many ways.  At the most basic level it helps you contras
 
 ![a screenshot comparing weight to impacts](wic-screenshot.png)
 
-But really, the sky's the limit.  See *[Example applications of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf)* for a few more ideas.
+* See *[Example applications of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf)* for an example of a fairly simple analysis.
+* See the [Waste Impact Calculator web app](https://rstudioconnect.deq.state.or.us/content/706a4deb-f353-4d08-826d-85bf7856c154) for a detailed examination of the life cycle impacts of solid waste from Oregon counties and the USA as a whole.
 
 ### WIC repositories
 
@@ -18,8 +19,8 @@ WIC project work occurs in several repos, listed below. Some of these are still 
 
 * [wic-data](https://github.com/OR-Dept-Environmental-Quality/wic-data) -- Most users will be interested in this.  The repo contains an installable R package containing impact factors and example datasets for using the Waste Impact Calculator framework. Help files contain links to documentation, including worked examples.
 * [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) -- The fundamental data and processing behind the material in *wic-data*.  Includes detailed documentation on life cycle impact modeling for individual materials.
-* wic-wastesheds -- calculation of life cycle impacts for solid waste in Oregon, Oregon's counties, and the United States as a whole, under 3 management scenarios related for recycling rates.
-* wic-app -- a shiny app for viewing the results produced by wic-wastesheds
+* wic-wastesheds -- compilation and creation of weight-based solid waste profiles Oregon, Oregon's counties, and the United States as a whole, under 3 management scenarios related for recycling rates.  These scenarios are applied in the Waste Impact Calculator web app (the wic-app repository, see below).
+* wic-app -- a shiny app featuring solid waste weights and impacts for Oregon, Oregon's counties, and the United States as a whole.
 * wic-eyo -- a shiny app allowing the user to enter their own data, and produce results similar to those produced by wic-app.
 
 ### Technical review
