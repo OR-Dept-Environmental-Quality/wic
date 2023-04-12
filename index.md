@@ -2,16 +2,21 @@
 
 The Waste Impact Calculator (WIC) is a framework for estimating the life cycle environmental impacts associated with solid waste materials and treatments, and projecting the impact consequences of solid waste management decisions (e.g. comparing waste prevention to recycling).  While it was created with the needs of the Oregon Department of Environmental Quality in mind, it should be relevant to many other parties interested in materials, waste, and waste management.
 
-* For a video introduction, see [this talk for the American Center For Life Cycle Assessment](https://youtu.be/Turv-Mpnf4g).
-* For a more thorough explication of the rationale and approach behind WIC, see the *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)*.
-* Disambiguation: for information on the Women Infants and Children supplemental nutrition program, also abbreviated WIC, see [this page](https://www.oregon.gov/oha/ph/healthypeoplefamilies/wic/Pages/index.aspx).
-
 WIC may be expressed in many ways.  At the most basic level it helps you contrast the weight and impacts of materials, for example:
 
 ![a screenshot comparing weight to impacts](wic-screenshot.png)
 
-* See *[Example applications of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf)* for an example of a fairly simple analysis.
-* See the [Waste Impact Calculator web app](https://rstudioconnect.deq.state.or.us/content/706a4deb-f353-4d08-826d-85bf7856c154) for a detailed examination of the life cycle impacts of solid waste from Oregon counties and the USA as a whole.
+The [Waste Impact Calculator web app](https://rstudioconnect.deq.state.or.us/content/706a4deb-f353-4d08-826d-85bf7856c154) is a good place to start.  It includes:
+
+* a video introduction to the WIC framework (on the landing page)
+* a detailed presentation of the life cycle impacts of solid waste from Oregon counties and the USA as a whole.
+
+More formal documentation can be found in these resources:
+* *[Technical Overview of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/technical-overview-of-the-wic.pdf)* provides a thorough explication of the rationale for and approach behind WIC.
+* *[Impact modeling for the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/impact-modeling-for-the-wic.pdf)* describes details of life cycle modeling for individual materials.
+* *[Example applications of the Waste Impact Calculator](https://github.com/OR-Dept-Environmental-Quality/wic-base/blob/main/documentation/example-applications-of-the-wic.pdf)* contains a fully fleshed out and documented example analysis.
+* [This talk for the American Center For Life Cycle Assessment](https://youtu.be/Turv-Mpnf4g) introduces WIC for life cycle professionals.
+
 
 ### WIC repositories
 
