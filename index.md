@@ -24,9 +24,8 @@ WIC project work occurs in several repos, listed below. Some of these are still 
 
 * [wic-data](https://github.com/OR-Dept-Environmental-Quality/wic-data) -- Most users will be interested in this.  The repo contains an installable R package containing impact factors and example datasets for using the Waste Impact Calculator framework. Help files contain links to documentation, including worked examples.
 * [wic-base](https://github.com/OR-Dept-Environmental-Quality/wic-base) -- The fundamental data and processing behind the material in *wic-data*.  Includes detailed documentation on life cycle impact modeling for individual materials.
-* wic-wastesheds -- compilation and creation of weight-based solid waste profiles Oregon, Oregon's counties, and the United States as a whole, under 3 management scenarios related for recycling rates.  These scenarios are applied in the Waste Impact Calculator web app (the wic-app repository, see below).
+* wic-wastesheds -- compilation and creation of weight-based solid waste profiles Oregon, Oregon's counties, and the United States as a whole, under 3 management scenarios related to recycling rates.  These scenarios are applied in the Waste Impact Calculator web app (the wic-app repository, see below).
 * wic-app -- a shiny app featuring solid waste weights and impacts for Oregon, Oregon's counties, and the United States as a whole.
-* wic-eyo -- a shiny app allowing the user to enter their own data, and produce results similar to those produced by wic-app.
 
 ### Technical review
 
